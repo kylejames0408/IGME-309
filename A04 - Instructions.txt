@@ -1,0 +1,12 @@
+Usage:
+- Press W to select a higher rectangle ID
+- Press S to select a lower rectangle ID
+- Press A to rotate counter-clockwise
+- Press D to rotate clockwise
+
+NOTES (for me):
+- I wanted to achieve the tree structure selection style but didn't have time to pursue.
+    - Because we could not, the selection process may seem uncoordinated to an average user.
+    - Currently selects while moving through the draw order.
+- Translations are not stored, but instead hard coded since we aren't dynamically changing them.
+- Rotations are stored because we are dynamically changing them.

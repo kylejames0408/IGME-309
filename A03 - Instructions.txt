@@ -1,0 +1,9 @@
+Usage: 
+- Right click on the mouse and choose a color for the polygon you're currently creating.
+    - This color will be used when starting a new polygon as well.
+- Click on the screen with the left mouse button to add a vertex to the polygon. 
+- Press 'Enter' key on the keyboard to finish the creation of the current polygon.
+    - Single vertex polygons will be represented by a square point.
+    - Two vertex polygons will be represneted by a line.
+- Right click on the mouse and choose 'clear' to remove all polygons, including the one you're currently working on.
+- Right click on the mouse and choose 'quit' to quit the program, or press the escape key. 

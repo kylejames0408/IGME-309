@@ -1,0 +1,8 @@
+Goal: Shoot the target circle until it explodes. 
+      Then, a new target will be generated at a random location.
+      Repeat shooting until you want to quit.
+
+How to play:
+- Press 'a' and 'd' keys to move the cannon horizontally. 
+- Press 'k' and 'l' keys to rotate the cannon's launcher. 
+- Press the spacebar to shoot bullets on the direction the launcher points towards.
